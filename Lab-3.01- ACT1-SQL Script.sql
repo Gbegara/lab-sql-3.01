@@ -33,3 +33,6 @@ VALUES
 			-- Checking the input
 select * from rental
 where inventory_id = 1;
+
+
+
